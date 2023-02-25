@@ -1,0 +1,79 @@
+
+
+main{
+    text-align: center;
+}
+
+a{
+    color: rgb(14, 97, 14);
+}
+#logo{
+    width: 12%;
+    padding: 1.5%;
+}
+
+#partof{
+    background-color: rgb(233, 247, 216);
+    padding: 1%;
+    font-size: 1.8ch;
+    border-top: 1.5px solid rgb(123, 214, 164);
+    color: rgb(14, 97, 14);
+}
+
+#page{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+span{
+    font-weight: bolder;
+}
+
+h1{
+    text-align: center;
+}
+
+#focac{border-radius: 10px;
+    width: 100%;
+   }
+
+#sally{
+    text-align: center;
+    color: grey;
+}
+
+#featured{
+    color: orange;
+    margin-bottom: 0%;
+    border-left: 1px rgb(135, 189, 135) solid;
+    padding-left: 2%;
+    
+}
+
+#fresh{
+    margin-top: 0%;
+    border-left: 1px rgb(135, 189, 135) solid;
+    padding-left: 2%;
+}
+
+#ingr{
+    padding-bottom: 2%;
+    border-bottom: 0.5px solid rgb(187, 240, 209);
+}
+
+li{
+    padding-bottom: 2%;
+}
+
+#meth{
+    border-bottom: 0.5px solid rgb(187, 240, 209);
+    padding-bottom: 2%;
+}
+
+#mfoc{
+    margin-bottom: 0px;
+}
+
+#instr{
+    margin-top: 2px;
+}
