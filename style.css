@@ -1,18 +1,19 @@
 
 
-main{
+
+main {
     text-align: center;
 }
 
-a{
+a {
     color: rgb(14, 97, 14);
 }
-#logo{
+#logo {
     width: 12%;
     padding: 1.5%;
 }
 
-#partof{
+#partof {
     background-color: rgb(233, 247, 216);
     padding: 1%;
     font-size: 1.8ch;
@@ -20,29 +21,32 @@ a{
     color: rgb(14, 97, 14);
 }
 
-#page{
+#page {
     margin-left: 25%;
     margin-right: 25%;
 }
 
-span{
+span {
     font-weight: bolder;
 }
 
-h1{
+h1 {
     text-align: center;
 }
 
-#focac{border-radius: 10px;
+#focac {
+    border-radius: 10px;
     width: 100%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+
    }
 
-#sally{
+#sally {
     text-align: center;
     color: grey;
 }
 
-#featured{
+#featured {
     color: orange;
     margin-bottom: 0%;
     border-left: 1px rgb(135, 189, 135) solid;
@@ -50,30 +54,30 @@ h1{
     
 }
 
-#fresh{
+#fresh {
     margin-top: 0%;
     border-left: 1px rgb(135, 189, 135) solid;
     padding-left: 2%;
 }
 
-#ingr{
+#ingr {
     padding-bottom: 2%;
     border-bottom: 0.5px solid rgb(187, 240, 209);
 }
 
-li{
+li {
     padding-bottom: 2%;
 }
 
-#meth{
+#meth {
     border-bottom: 0.5px solid rgb(187, 240, 209);
     padding-bottom: 2%;
 }
 
-#mfoc{
+#mfoc {
     margin-bottom: 0px;
 }
 
-#instr{
+#instr {
     margin-top: 2px;
 }
